@@ -42,6 +42,9 @@
     .cards{display:grid;grid-template-columns:repeat(5,1fr);gap:22px}
     .card{background:rgba(255,255,255,.72);border-radius:10px;overflow:hidden;box-shadow:var(--shadow);border:1px solid rgba(196,149,106,.18)}
     .card img{height:250px}
+    .card-body{padding:18px;text-align:center}
+    .card h3{font-family:Inter,sans-serif;text-transform:uppercase;letter-spacing:.8px;font-size:14px;font-weight:800;color:var(--espresso);margin-bottom:8px}
+    .price{display:inline-block;background:var(--espresso);color:white;border-radius:999px;padding:6px 14px;font-size:13px;font-weight:800;letter-spacing:.4px}
     .more{margin-top:32px;background:linear-gradient(90deg,rgba(237,224,207,.6),rgba(255,255,255,.72));border:1px solid rgba(196,149,106,.35);border-radius:14px;padding:28px 34px;display:grid;grid-template-columns:auto 1fr auto;gap:28px;align-items:center;box-shadow:var(--shadow)}
     .dots{width:78px;height:78px;border-radius:50%;background:var(--camel);color:white;display:grid;place-items:center;font-size:30px;letter-spacing:3px;line-height:.7}
     .more h3{font-size:34px;margin-bottom:6px}
@@ -111,16 +114,16 @@
         <a class="view-link" href="pricing.html">View All Services →</a>
       </div>
       <div class="cards">
-        <article class="card"><img src="assets/micro-needling.jpg" alt="Micro Needling"></article>
-        <article class="card"><img src="assets/hydra-facial.jpg" alt="Hydrodermabrasion"></article>
-        <article class="card"><img src="assets/laser-treatment.jpg" alt="Laser Rejuvenation"></article>
-        <article class="card"><img src="assets/rf-skin-tightening.jpg" alt="Fractional RF"></article>
-        <article class="card"><img src="assets/skin-boosters.jpg" alt="HIFU"></article>
+        <article class="card"><img src="assets/micro-needling.jpg" alt="Microneedling"><div class="card-body"><h3>Microneedling</h3><span class="price">From $220</span></div></article>
+        <article class="card"><img src="assets/hydra-facial.jpg" alt="Hydrodermabrasion"><div class="card-body"><h3>Hydrodermabrasion</h3><span class="price">From $160</span></div></article>
+        <article class="card"><img src="assets/laser-treatment.jpg" alt="Laser Rejuvenation"><div class="card-body"><h3>Laser Rejuvenation</h3><span class="price">From $170</span></div></article>
+        <article class="card"><img src="assets/rf-skin-tightening.jpg" alt="RF Needling"><div class="card-body"><h3>RF Needling</h3><span class="price">From $200</span></div></article>
+        <article class="card"><img src="assets/skin-boosters.jpg" alt="HIFU"><div class="card-body"><h3>HIFU</h3><span class="price">From $200</span></div></article>
       </div>
       <div id="all-treatments" class="more">
         <div class="dots">••<br>••<br>••</div>
-        <div><h3>See all the treatments we offer</h3><p>Explore the full range of advanced skin and body treatments tailored to your unique needs.</p><div class="all-list">Also available: Fibroblast Plasma · Medi-Aesthetic Peels · Carbon Peel · Kumashape · Fat Cavitation · EMS for Muscle Gain · EMS for Pelvic Floor Strengthening · Radiofrequency · Zena Algae Peel · Tattoo Removal · Laser for Nail Fungus</div></div>
-        <a class="btn primary" href="pricing.html">View Prices →</a>
+        <div><h3>See all the treatments we offer</h3><p>Explore the full updated treatment price list one by one, including single prices and package prices from the latest spreadsheet.</p><div class="all-list">Pricing page includes: Carbon Peel · EMS · Fibroblast · RF Needling · HIFU · Hydrodermabrasion · Kumashape · Medi Peels · Microdermabrasion · Microneedling · Radio Frequency · Tattoo Removal · Zena Algae Peel · Laser Rejuvenation · Pico Laser · Laser Hair Removal · Fractional Laser · Laser Genesis · Add-ons</div></div>
+        <a class="btn primary" href="pricing.html">View Updated Prices →</a>
       </div>
     </section>
 
@@ -153,10 +156,10 @@
         <input name="Email Address" type="email" placeholder="Email Address" required>
         <select name="Treatment Interest" required>
           <option value="">How can we help you?</option>
-          <option>Micro Needling</option>
+          <option>Microneedling</option>
           <option>Hydrodermabrasion</option>
           <option>Laser Rejuvenation</option>
-          <option>Fractional RF</option>
+          <option>RF Needling</option>
           <option>HIFU</option>
           <option>Other treatment</option>
         </select>
@@ -168,7 +171,7 @@
     <div class="footer-grid">
       <div><a class="logo" href="#home"><div class="mark">NB</div><div class="name">Skin Rejuvenation</div></a><p>Advanced, evidence-based skin and body treatments designed to rejuvenate your skin and enhance your natural beauty.</p></div>
       <div><h4>Quick Links</h4><ul><li><a href="#about">About Us</a></li><li><a href="#treatments">Services</a></li><li><a href="#results">Results</a></li><li><a href="pricing.html">Pricing</a></li><li><a href="#contact">Contact</a></li></ul></div>
-      <div><h4>Treatments</h4><ul><li><a href="#treatments">Micro Needling</a></li><li><a href="#treatments">Hydrodermabrasion</a></li><li><a href="#treatments">Laser Rejuvenation</a></li><li><a href="#treatments">Fractional RF</a></li><li><a href="#treatments">HIFU</a></li></ul></div>
+      <div><h4>Treatments</h4><ul><li><a href="#treatments">Microneedling</a></li><li><a href="#treatments">Hydrodermabrasion</a></li><li><a href="#treatments">Laser Rejuvenation</a></li><li><a href="#treatments">RF Needling</a></li><li><a href="#treatments">HIFU</a></li></ul></div>
       <div><h4>Contact</h4><p><a href="tel:+61404203800">☎ 0404 203 800</a></p><p><a href="mailto:hello@nbskinrejuvenation.com.au">✉ hello@nbskinrejuvenation.com.au</a></p><p><strong>Northern Beaches clinic</strong><br>By appointment only</p><div class="contact-actions"><a class="btn primary" href="tel:+61404203800">Call Now</a><a class="btn secondary" href="https://www.google.com/maps/search/?api=1&query=9%20and%2010%2F8-12%20Pacific%20Parade%2C%20Dee%20Why%20NSW%202099" target="_blank" rel="noopener">Get Directions</a></div></div>
     </div>
     <div class="copyright">© 2024 NB Skin Rejuvenation. All rights reserved.</div>
