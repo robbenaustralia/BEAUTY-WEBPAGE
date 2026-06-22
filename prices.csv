@@ -1,0 +1,191 @@
+Treatment,Area,Single Price,Package Price,Per Treatment in Package
+Carbon Peel,Face,$170,3 for $408,$136
+Carbon Peel,Face and Neck,$250,3 for $600,$200
+Carbon Peel,"Face, Neck and Decolletage",$300,3 for $720,$240
+Carbon Peel,Back,$500,"3 for $1,200",$400
+EMS for muscle gain,1 area,$140,6 for $672,$112
+EMS for muscle gain,2 areas,$210,"6 for $1,008",$168
+EMS for muscle gain,3 areas,$280,"6 for $1,344",$224
+EMS for muscle gain,4 areas,$350,"6 for $1,680",$280
+EMS Pelvic Floor,Pelvic Floor,$140,6 for $672,$112
+Fibroblast,Under eye,$300,,
+Fibroblast,Belly button lift,$300,,
+Fibroblast,Crows feet,$300,,
+Fibroblast,Blepharoplasty,$300,,
+Fibroblast,Lip flip,$300,,
+Fibroblast,Forehead,$400,,
+Fibroblast,Eyebrow lift,$300,,
+Fibroblast,Marionette lines,$300,,
+Fibroblast,Smoker lines,$300,,
+Fibroblast,Neck,$500,,
+Fibroblast,Tummy tightening,"$1,000",,
+RF Needling,Face,$270,3 for $648,$216
+RF Needling,Face and Neck,$300,3 for $720,$240
+RF Needling,"Face, Neck and Decolletage",$350,3 for $840,$280
+RF Needling,Abdomen,$350,3 for $840,$280
+RF Needling,Stretch marks (from),$200,3 for $480,$160
+HIFU,Neck,$500,"3 for $1,200",$400
+HIFU,Double chin *,$300,3 for $720,$240
+HIFU,Eyebrow lift,$200,3 for $480,$160
+HIFU,Face,"$1,000","3 for $2,400",$800
+HIFU,Face and Neck,"$1,300","3 for $3,120","$1,040"
+HIFU,"Face, Neck and Decolletage","$1,700","3 for $4,080","$1,360"
+HIFU,Stomach,"$1,000","3 for $2,400",$800
+Hydrodermabrasion,Face,$160,3 for $384,$128
+Hydrodermabrasion,Face and Neck,$190,3 for $456,$152
+Hydrodermabrasion,"Face, Neck and Decolletage",$220,3 for $528,$176
+Kumashape,Saddle bags,$120,6 for $576,$96
+Kumashape,Love handles,$120,6 for $576,$96
+Kumashape,Butt,$120,6 for $576,$96
+Kumashape,Stomach,$150,6 for $720,$120
+Kumashape,Leg front,$170,6 for $816,$136
+Kumashape,Leg back,$170,6 for $816,$136
+Medi Peels 5 Berry and TCA,Face,$170,3 for $408,$136
+Medi Peels 5 Berry and TCA,Face and Neck,$200,3 for $480,$160
+Medi Peels 5 Berry and TCA,"Face, Neck and Decolletage",$230,3 for $552,$184
+Medi Peels 5 Berry and TCA,Back,$350,3 for $840,$280
+Medi Peels Vit A,Face,$120,3 for $288,$96
+Medi Peels Vit A,Face and Neck,$150,3 for $360,$120
+Medi Peels Vit A,"Face, Neck and Decolletage",$180,3 for $432,$144
+Medi Peels Vit A,Back,$210,3 for $504,$168
+Medi Peels Tretinoin,Back,$350,3 for $840,$280
+Medi Peels Tretinoin,Face,$170,3 for $408,$136
+Medi Peels Tretinoin,Face and Neck,$200,3 for $480,$160
+Medi Peels Tretinoin,"Face, Neck and Decolletage",$230,3 for $552,$184
+Microdermabrasion,Face,$100,3 for $240,$80
+Microdermabrasion,Face and Neck,$130,3 for $312,$104
+Microdermabrasion,"Face, neck and deccoletage",$160,3 for $384,$128
+Microneedling,Face,$220,3 for $528,$176
+Microneedling,Face and Neck,$270,3 for $648,$216
+Microneedling,"Face, Neck and Decolletage",$300,3 for $720,$240
+Microneedling,Stretch marks,$190,3 for $456,$152
+Microneedling,Add on peel,$60,3 for $144,$48
+Radio Frequency,Face,$120,6 for $576,$96
+Radio Frequency,Neck,$90,6 for $432,$72
+Radio Frequency,Face and Neck,$150,6 for $720,$120
+Radio Frequency,"Face, Neck and Decolletage",$180,6 for $864,$144
+Radio Frequency,Body,$180,6 for $864,$144
+Tattoo Removal,100 cm2,$170,,
+Tattoo Removal,150 cm2,$240,,
+Tattoo Removal,20 cm2,$100,,
+Tattoo Removal,300 cm2,$320,,
+Tattoo Removal,4 cm2,$50,,
+Tattoo Removal,400 cm2,$380,,
+Tattoo Removal,50 cm2,$130,,
+Tattoo Removal,600 cm2,$580,,
+Tattoo Removal,Eyebrow *,$130,,
+Tattoo Removal with Saline Solution,Eyebrow,$200,,
+Zena Algae Peel,Face,$350,3 for $840,$280
+Zena Algae Peel,Face and Neck,$400,3 for $960,$320
+Zena Algae Peel,"Face, Neck and Decolletage",$500,"3 for $1,200",$400
+Zena Algae Peel,Back,$350,3 for $840,$280
+Laser Rejuvenation,Face,$170,6 for $816,$136
+Laser Rejuvenation,Face and Neck,$255,"6 for $1,224",$204
+Laser Rejuvenation,"Face, Neck and Decolletage",$340,"6 for $1,632",$272
+Laser Rejuvenation,Body,$170,6 for $816,$136
+Pico Laser Pigmentation,Face,$170,6 for $816,$136
+Pico Laser Pigmentation,Face and Neck,$255,"6 for $1,224",$204
+Pico Laser Pigmentation,"Face, Neck and Decolletage",$340,"6 for $1,632",$272
+Pico Laser Pigmentation,Hands,$150,6 for $720,$120
+Laser for nail fungus,Per nail,$70,4 for $224,$56
+Laser Hair Removal Upper Body,Areola Female,$10,6 for $48,$8
+Laser Hair Removal Upper Body,Areola Male,$28,6 for $134.4,$22.4
+Laser Hair Removal Upper Body,Full Back and Shoulders Male,$159,6 for $763.2,$127.2
+Laser Hair Removal Upper Body,Full Back and Shoulder Female,$139,6 for $667.2,$111.2
+Laser Hair Removal Upper Body,Underarms Female,$28,6 for $134.4,$22.4
+Laser Hair Removal Upper Body,Underarms Male,$38,6 for $182.4,$30.4
+Laser Hair Removal Upper Body,Full Arms Female,$79,6 for $379.2,$63.2
+Laser Hair Removal Upper Body,Full Arms Male,$99,6 for $475.2,$79.2
+Laser Hair Removal Upper Body,Half Arms Female,$59,6 for $283.2,$47.2
+Laser Hair Removal Upper Body,Half Arms Male,$79,6 for $379.2,$63.2
+Laser Hair Removal Upper Body,Full Back Male,$139,6 for $667.2,$111.2
+Laser Hair Removal Upper Body,Full Back Female,$139,6 for $667.2,$111.2
+Laser Hair Removal Upper Body,Half Back Male,$109,6 for $523.2,$87.2
+Laser Hair Removal Upper Body,Half Back Female,$109,6 for $523.2,$87.2
+Laser Hair Removal Upper Body,Back of neck Male,$29,6 for $139.2,$23.2
+Laser Hair Removal Upper Body,Back of Neck Female,$29,6 for $139.2,$23.2
+Laser Hair Removal Upper Body,Chest Female,$49,6 for $235.2,$39.2
+Laser Hair Removal Upper Body,Chest Male,$89,6 for $427.2,$71.2
+Laser Hair Removal Upper Body,Chest and Stomach Female,$109,6 for $523.2,$87.2
+Laser Hair Removal Upper Body,Chest and Stomach Male,$144,6 for $691.2,$115.2
+Laser Hair Removal Upper Body,Hands and Fingers Female,$19,6 for $91.2,$15.2
+Laser Hair Removal Upper Body,Hands and Fingers Male,$25,6 for $120,$20
+Laser Hair Removal Upper Body,Shoulders Female,$39,6 for $187.2,$31.2
+Laser Hair Removal Upper Body,Shoulders Male,$49,6 for $235.2,$39.2
+Laser Hair Removal Upper Body,Snail Trail Female,$19,6 for $91.2,$15.2
+Laser Hair Removal Upper Body,Snail Trail Male,$29,6 for $139.2,$23.2
+Laser Hair Removal Upper Body,Stomach Female,$49,6 for $235.2,$39.2
+Laser Hair Removal Upper Body,Stomach Male,$79,6 for $379.2,$63.2
+Laser Hair Removal Upper Body,"Full Back, Shoulders, Chest and Back Male",$280,"6 for $1,344",$224
+Laser Hair Removal Upper Body,"Full Back, Shoulders, Chest and Stomach Female",$220,"6 for $1,056",$176
+Laser Hair Removal Upper Body,Full Back and Shoulders Male – Pack of 5 – 10% Off,$715.5,"6 for $3,434.4",$572.4
+Laser Hair Removal Upper Body,Full Back and Shoulders Male – Pack 10 – 20% off,"$1,272","6 for $6,105.6","$1,017.6"
+Laser Hair Removal Lower Body,Anus Female,$15,6 for $72,$12
+Laser Hair Removal Lower Body,Anus Male,$70,6 for $336,$56
+Laser Hair Removal Lower Body,Brazilian Incl anus Female,$62,6 for $297.6,$49.6
+Laser Hair Removal Lower Body,Brazilian incl anus Male,$200,6 for $960,$160
+Laser Hair Removal Lower Body,"COMBO Brazilian, anus, underarms Female",$69,6 for $331.2,$55.2
+Laser Hair Removal Lower Body,"COMBO Brazilian, anus and Underarms Male",$180,6 for $864,$144
+Laser Hair Removal Lower Body,Bikini Line Female,$35,6 for $168,$28
+Laser Hair Removal Lower Body,Bikini Line Male,$130,6 for $624,$104
+Laser Hair Removal Lower Body,Buttocks Female,$59,6 for $283.2,$47.2
+Laser Hair Removal Lower Body,Buttocks Male,$89,6 for $427.2,$71.2
+Laser Hair Removal Lower Body,Full Legs Female,$129,6 for $619.2,$103.2
+Laser Hair Removal Lower Body,Full Legs Male,$169,6 for $811.2,$135.2
+Laser Hair Removal Lower Body,"COMBO Full Legs, Brazilian, Anus, underarms Female",$174,6 for $835.2,$139.2
+Laser Hair Removal Lower Body,"COMBO Full Legs, Brazilian, Anus, underarms Male",$320,"6 for $1,536",$256
+Laser Hair Removal Lower Body,Half Legs Female,$79,6 for $379.2,$63.2
+Laser Hair Removal Lower Body,Half Legs Male,$109,6 for $523.2,$87.2
+Laser Hair Removal Lower Body,"COMBO Half Legs, Brazilian, Anus, underarms Female",$139,6 for $667.2,$111.2
+Laser Hair Removal Lower Body,"COMBO Half Legs, Brazilian, Anus, underarms Male",$270,"6 for $1,296",$216
+Laser Hair Removal Lower Body,Knees Female,$15,6 for $72,$12
+Laser Hair Removal Lower Body,Knees Male,$25,6 for $120,$20
+Laser Hair Removal Lower Body,G-String Female,$55,6 for $264,$44
+Laser Hair Removal Lower Body,G-String Male,$160,6 for $768,$128
+Laser Hair Removal for Face,Chin Female,$19,6 for $91.2,$15.2
+Laser Hair Removal for Face,Chin Male,$32,6 for $153.6,$25.6
+Laser Hair Removal for Face,Ears Female,$19,6 for $91.2,$15.2
+Laser Hair Removal for Face,Ears Male,$19,6 for $91.2,$15.2
+Laser Hair Removal for Face,Full Face Female,$49,6 for $235.2,$39.2
+Laser Hair Removal for Face,Full Face Male,$69,6 for $331.2,$55.2
+Laser Hair Removal for Face,Lip Female,$19,6 for $91.2,$15.2
+Laser Hair Removal for Face,Lip Male,$32,6 for $153.6,$25.6
+Laser Hair Removal for Face,Lip and Chin Female,$29,6 for $139.2,$23.2
+Laser Hair Removal for Face,Lip and Chin Male,$43,6 for $206.4,$34.4
+Laser Hair Removal for Face,Nose Female,$15,6 for $72,$12
+Laser Hair Removal for Face,Nose Male,$18,6 for $86.4,$14.4
+Laser Hair Removal for Face,Face sides Female,$19,6 for $91.2,$15.2
+Laser Hair Removal for Face,Face sides Male,$29,6 for $139.2,$23.2
+Add-on Areas,Anus Female,$12,6 for $57.6,$9.6
+Add-on Areas,Anus Male,$60,6 for $288,$48
+Add-on Areas,Face sides Female,$19,6 for $91.2,$15.2
+Add-on Areas,Face sides Male,$29,6 for $139.2,$23.2
+Add-on Areas,Feet Female,$12,6 for $57.6,$9.6
+Add-on Areas,Feet Male,$25,6 for $120,$20
+Add-on Areas,Lip OR Chin Female,$12,6 for $57.6,$9.6
+Add-on Areas,Lip OR Chin Male,$25,6 for $120,$20
+Add-on Areas,Lip and Chin Female,$29,6 for $139.2,$23.2
+Add-on Areas,Lip and Chin Male,$43,6 for $206.4,$34.4
+Add-on Areas,Snail Trail Female,$12,6 for $57.6,$9.6
+Add-on Areas,Snail Trail Male,$25,6 for $120,$20
+Add-on Areas,Shave Female,$30,6 for $144,$24
+Add-on Areas,Shave Male,$40,6 for $192,$32
+Laser for Vascular Lesions,Cheeks,$120,4 for $384,$96
+Laser for Vascular Lesions,Cherry Angiomas,From $70,3 for $168,$56
+Laser for Vascular Lesions,Legs (red and purple vessels only),From $120,4 for $384,$96
+Laser for Vascular Lesions,Nose,From $80,4 for $256,$64
+Laser for Vascular Lesions,Rosacea cheeks,$120,4 for $384,$96
+Laser for Vascular Lesions,Rosacea Full Face,$280,4 for $896,$224
+Laser for Pigmentation,Melasma Full face,$230,"6 for $1,104",$184
+Laser for Pigmentation,Freckles Full Face,$180,3 for $432,$144
+Laser for Pigmentation,Cheeks Freckles,$120,3 for $288,$96
+Fractional Laser,Full Face,$180,6 for $864,$144
+Fractional Laser,Full face and neck,$250,"6 for $1,200",$200
+Fractional Laser,"Full face, neck and decolletage",$320,"6 for $1,536",$256
+Laser Genesis,Full Face,$180,6 for $864,$144
+Laser Genesis,Full face and neck,$250,"6 for $1,200",$200
+Laser Genesis,"Full face, neck and decolletage",$320,"6 for $1,536",$256
+Laser Genesis + Fractional Laser,Full Face,$280,"6 for $1,344",$224
+Laser Genesis + Fractional Laser,Full face and neck,$360,"6 for $1,728",$288
+Laser Genesis + Fractional Laser,"Full face, neck and decolletage",$410,"6 for $1,968",$328
+ADD on to all Facial treatments,LED Light,$40,,
